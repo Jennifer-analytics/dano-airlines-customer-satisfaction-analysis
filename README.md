@@ -41,7 +41,9 @@ An interactive Excel dashboard was developed to explore satisfaction patterns ac
 ---
 
 ## Visualization
-*https://github.com/Jennifer-analytics/dano-airlines-customer-satisfaction-analysis/tree/main*
+<p align="center">
+  <img src="Images/dashboard.png" alt="Dano Airlines Customer Satisfaction Dashboard" width="100%">
+</p>
 
 ---
 
