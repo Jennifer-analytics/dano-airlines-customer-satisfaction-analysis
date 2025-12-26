@@ -77,8 +77,5 @@ These data-driven recommendations provide Dano Airlines with a practical and sca
   - Pivot tables and calculated metrics  
   - Dashboard design and visualization  
 
----
 
-## Project Files
-See the folders below for the dashboard, visuals, and supporting materials.
  
